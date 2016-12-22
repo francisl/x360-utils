@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=False
+Name=Tablet Mode
+Icon=/usr/share/icons/Adwaita/32x32/devices/pda-symbolic.symbolic.png
+Exec=~/tablet-mode.sh

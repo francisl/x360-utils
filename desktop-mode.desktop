@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=False
+Name=Laptop Mode
+Icon=/usr/share/icons/Adwaita/32x32/devices/input-keyboard-symbolic.symbolic.png
+Exec=~/laptop-mode.sh
